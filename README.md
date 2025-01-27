@@ -9,7 +9,12 @@ I'm also passionate about exploring new technologies and innovations as well as 
 
 
 # Frequently Used Softwares
+These are the softwares and programing languages I frequently use and am more familiar with.
 <img src="https://github.com/magnergusse/magnergusse/blob/main/frequents.png" alt="Frequently Used softwares and programming.">
+
+# Other Used Softwares
+These are other softwares and programing languages I have used in a near past but am not fully familiarized with. 
+<img src="https://github.com/magnergusse/magnergusse/blob/main/secondary.png" alt="Secondary Used softwares and programming.">
 
 <!---  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnergusse&layout=compact&langs_count=7&theme=dracula"/> --->
 <!---
