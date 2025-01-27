@@ -9,7 +9,7 @@ I'm also passionate about exploring new technologies and innovations as well as 
 
 
 # Frequently Used Softwares
-<img src="https://github.com/magnergusse/magnergusse/blob/main/frequent.png" alt="Frequently Used softwares and programming.">
+<!--- <img src="https://github.com/magnergusse/magnergusse/blob/main/frequent.png" alt="Frequently Used softwares and programming."> --->
 
 <!---  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnergusse&layout=compact&langs_count=7&theme=dracula"/> --->
 <!---
