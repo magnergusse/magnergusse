@@ -1,4 +1,5 @@
-# Hello👋 ! I'm Magner Gusse, currently pursuing my Master's in Aerospace Engineering at Universidade de Aveiro.
+# Hello👋 ! I'm Magner Gusse
+I'm currently pursuing my Master's in Aerospace Engineering at Universidade de Aveiro.
 
 I'm originally from Maputo, Mozambique, like most, my interest started from looking up and seeing aircrafts in the sky and the curiosity of how they work. 
 
