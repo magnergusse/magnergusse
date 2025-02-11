@@ -23,8 +23,10 @@ These are other softwares and programing languages I have used but am not fully 
 # My Work
 Here⬇️⬇, you’ll find a collection of my work from both my bachelor’s and master’s, including projects and courses that shaped my learning journey.
 
-📚 Bachelor’s Repositories – A look into my undergrad studies, linking to key courses and projects.
-🎓 Master’s Repositories – More advanced topics, research, and projects from my ongoing studies.
+📚 Bachelor’s Repositories – A look into my undergrad studies, linking all courses and projects.
+
+🎓 Master’s Repositories – More advanced topics, linking all courses and projects from my ongoing studies.
+
 💡 My Favorite Projects – Some of my course-related projects that I really enjoyed working on.
 
 Feel free to explore, give feedback, or reach out! 🚀
