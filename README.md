@@ -13,8 +13,18 @@ These are the softwares and programing languages I frequently use and am more fa
 <img src="https://github.com/magnergusse/magnergusse/blob/main/frequent1.png" alt="Frequently Used softwares and programming.">
 
 # Other Used Softwares
-These are other softwares and programing languages I have used in a near past but am not fully familiarized with. 
+These are other softwares and programing languages I have used but am not fully familiarized with. 
 <img src="https://github.com/magnergusse/magnergusse/blob/main/secondarys.png" alt="Secondary Used softwares and programming.">
+
+# My Work
+Here⬇️⬇, you’ll find a collection of my work from both my bachelor’s and master’s, including projects and courses that shaped my learning journey.
+
+📚 Bachelor’s Repositories – A look into my undergrad studies, linking to key courses and projects.
+🎓 Master’s Repositories – More advanced topics, research, and projects from my ongoing studies.
+💡 My Favorite Projects – Some of my course-related projects that I really enjoyed working on.
+
+Feel free to explore, give feedback, or reach out! 🚀
+<a href="https://github.com/magnergusse?tab=repositories" target="_blank" rel="noopener noreferrer">🔗 Browse my repositories</a>
 
 <!---  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnergusse&layout=compact&langs_count=7&theme=dracula"/> --->
 <!---
