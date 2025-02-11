@@ -10,12 +10,14 @@ I'm also passionate about exploring new technologies and innovations as well as 
 
 # Frequently Used Softwares
 These are the softwares and programing languages I frequently use and am more familiar with.
+<p align="center">
 <img src="https://github.com/magnergusse/magnergusse/blob/main/frequent1.png" alt="Frequently Used softwares and programming.">
-
+</p>
 # Other Used Softwares
 These are other softwares and programing languages I have used but am not fully familiarized with. 
+<p align="center"> 
 <img src="https://github.com/magnergusse/magnergusse/blob/main/secondarys.png" alt="Secondary Used softwares and programming.">
-
+</p>
 # My Work
 Here⬇️⬇, you’ll find a collection of my work from both my bachelor’s and master’s, including projects and courses that shaped my learning journey.
 
