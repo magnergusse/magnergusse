@@ -13,6 +13,7 @@ These are the softwares and programing languages I frequently use and am more fa
 <p align="center">
 <img src="https://github.com/magnergusse/magnergusse/blob/main/frequent1.png" alt="Frequently Used softwares and programming.">
 </p>
+
 # Other Used Softwares
 These are other softwares and programing languages I have used but am not fully familiarized with. 
 <p align="center"> 
